@@ -6,32 +6,32 @@ JMarkDown is the simple and innovative Application for picking the MarkDown file
 ##### Step 1 Installation
 In your Joomla control panel top menu, go to Extensions -> Manage -> install as illustrated below.
 
-![](./images1/JMarkDown_installation1.png)
+![](./assets/images/JMarkDown_installation1.png)
 
 When you click here, you will be directed to the screen where you can select the downloaded/purchased packaged. 
 
 See the image below:
 
-![](./images1/JMarkDown_installation2.png)
+![](./assets/images/JMarkDown_installation2.png)
 
 JMarkDown is now installed and you will get this success message, as illustrated below.
 
-![](./images1/JMarkDown_installation3.png)
+![](./assets/images/JMarkDown_installation3.png)
 
 ##### step 2  create Repositary
 
 Open the Github and select new project to create new repository as like in the below image .
 
-![](./images1/Repository.png)
+![](./assets/images/Repository.png)
 
 Enter the repository name and description(optional) after giving the necessary details press create repository button as like in the image below.
 
 
-![](./images1/Repository1.png)
+![](./assets/images/Repository1.png)
 
 Now the repository will be created as like the below image
 
-![](./images1/Repository2.png)
+![](./assets/images/Repository2.png)
 
 
 ##### step 3 Configure the Repository
@@ -42,54 +42,54 @@ A repository (pronounced ree-PAHZ-ih-tor-i) is a central place in which an aggre
 
 Go to components -> JMarkDown for getting the JMarkDown Dashboard as like below image.
 
-![](./images1/configure_repository.png)
+![](./assets/images/configure_repository.png)
 
-![](./images1/configure_repository1.png)
+![](./assets/images/configure_repository1.png)
 
 Now,the Repositories will be open it does not contain any item select new button for creating/adding new Repositories.
 
 Refer the below image
 
-![](./images1/configure_repository2.png)
+![](./assets/images/configure_repository2.png)
 
 Fill all the fields with your valid repository tittle,Git user name,Git password,Git account name, Git Repository name  and select the status.
 After enter all valid field press save and close.
-![](./images1/configure_repository3.png)
+![](./assets/images/configure_repository3.png)
 
 ##### Step 4 Configure the Sections
 
 Select the Sections from the Dashboard
 
 Now,the Sections will be open it does not contain any item select new button for creating/adding new Sections as like below image.
-![](./images1/sections.png)
+![](./assets/images/sections.png)
 
 Fill all the fields with your valid Section Name,select Repository tittle name and set the status.
 After enter all valid field press save and close.
 
 Refer the below image
-![](./images1/sections1.png)
+![](./assets/images/sections1.png)
 
 ##### step 5 Configure the Topics
 Select the Topics from the Dashboard
 
 Now,the Topics will be open it does not contain any item select new button for creating/adding new Topics as like below image.
 
-![](./images1/Topics.png)
+![](./assets/images/Topics.png)
 Fill all the fields with your valid Section Name,topic name, alias, enter the valid file name with .md extension and set the status.
 After enter all valid field press save and close.
 
 Refer the below image
-![](./images1/Topics1.png)
+![](./assets/images/Topics1.png)
 
 ##### Display JMarkDown in Front end
 
 Once you created the repositories, sections and topics, you can display it via menu. Go to menu manager and create menu item with mainmenu > JMarkDown > JMarkDown contents.
 Refer the below image
 
-![](./images1/Frontend.png)
+![](./assets/images/Frontend.png)
 
 After choosing the menu item type, click the 'save' button. Once saved, go to Repository tab and select the  you have created Repository Tittle and click save and close button.
 
 A menu item will be created in the front end with the corresponding Sectios and Topics in it.
 
-![](./images1/Frontend1.png)
+![](./assets/images/Frontend1.png)
