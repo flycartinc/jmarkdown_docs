@@ -1,4 +1,3 @@
-
 # Server Requirements
 
 ##### Technical requirements for JMarkDown:
@@ -13,4 +12,4 @@
 Thats it !
 ##### Joomla Requirements
 
-Make sure you check these minimum requirements for Joomla
+Make sure you check these [minimum requirements for Joomla](https://docs.joomla.org/Technical_requirements).
