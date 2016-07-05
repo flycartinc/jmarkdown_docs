@@ -54,7 +54,7 @@ Refer the below image
 
 Fill all the fields with your valid repository tittle,Git user name,Git password,Git account name, Git Repository name  and select the status.
 After enter all valid field press save and close.
-![](./assets/images/configure_repository3.png)
+![](./assets/images/repo_setup.png)
 
 ##### Step 4 Configure the Sections
 
