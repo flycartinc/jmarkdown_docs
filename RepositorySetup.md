@@ -1,24 +1,20 @@
-##### create Repositary
+# Repository
 
-Open the Github and select new project to create new repository as like in the below image .
+A Github repository is a location where all the files for a particular project are stored. Usually abbreviated to “repo.” Each project will have its own repo, and can be accessed by a unique URL. For example, consider our products Axisubs, JMarkDown and AxisMeta. Documentation for all the products are written in .md format and maintained in Github repositories. To display those documentation (.md files) in the site, we have developed JMarkDown and fetch the documentation from Github repositories and display them in the site. Lets see how to create repository in Github and maintaining .md files.
+
+#### Creating Repository in Github
+
+Signup and login into your Github account and start creating repository.
 
 ![](./assets/images/Repository.png)
 
-Enter the repository name and description(optional) after giving the necessary details press create repository button as like in the image below.
-
-
 ![](./assets/images/Repository1.png)
 
-Now the repository will be created as like the below image
+Now, the .md files are pushed into the created repository
 
 ![](./assets/images/Repository2.png)
 
-
-##### step 3 Configure the Repository
-
-##### Repository
-
-A repository (pronounced ree-PAHZ-ih-tor-i) is a central place in which an aggregation of data is kept and maintained in an organized way, usually in computer storage.
+#### Adding Repository in JMarkDown
 
 Go to components -> JMarkDown for getting the JMarkDown Dashboard as like below image.
 
@@ -26,14 +22,16 @@ Go to components -> JMarkDown for getting the JMarkDown Dashboard as like below 
 
 ![](./assets/images/configure_repository1.png)
 
-Now,the Repositories will be open it does not contain any item select new button for creating/adding new Repositories.
+Currently, it does not contain any item. To create a new repository click on new button in the top left corner.
 
 Refer the below image
 
 ![](./assets/images/configure_repository2.png)
 
-Fill all the fields with your valid repository tittle,Git user name,Git password,Git account name, Git Repository name  and select the status.
-After enter all valid field press save and close.
+Enter all the necessary fields like repository tittle, Git user name, Git password, Git account name, Git Repository name  and select the status.
+
+Refer the below image
 
 ![](./assets/images/configure_repository3.png)
 
+After entering all fields press save and close.

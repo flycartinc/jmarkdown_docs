@@ -1,22 +1,21 @@
-# Mark Down
+# JMarkDown
 
-##### History
+#### What is JMarkDown ?
 
-HTML just begs for typos. Even the smallest, one-letter tags require three characters to open them and four characters to close. If you forget a slash or accidentally type an apostrophe instead of a quotation mark, your whole page could be screwed up. And especially if you’re in a hurry, the errors can be hard to spot.
+JMarkDown is the simple and innovative Application for pick the  files from Github and displayed it into the specified site. We also use the JMarkDown for our site for Showing github files. JMarkDown has some special features for displaying files in structured format like Sections and Topics.
 
-Plenty of tools assist with HTML writing by highlighting errors on the fly, but why rely on those?
-Markdown’s simplicity and flexibility help you make fewer mistakes, and errors are much easier to find.
+#### Sections
 
-##### What is mark down?
+One of a number of parts that can be fitted together to make a whole documents. A sections can contain many topics.
 
-The founder of Markdown language is John Gruber in the year of 2004.
+Refer the below image you can get a better idea about JMarkDown Sections.
 
-Markdown is a way to style text on the web. You control the display of the document, formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
+![](./assets/images/logo.png)
 
-For getting the more idea about mark down refers the below links
+#### Topics
 
-[Mark Down Wikipedia](http://en.wikipedia.org/wiki/Markdown)
+Topics are grouped into the sections. Each File inside sections are considered as topics. Each topic can contains only one single file with a .md extensions.
 
-[What is MarkDown](http://http://whatismarkdown.com/)
 
-[The Ultimate Guide For MarkDown](http://blog.ghost.org/markdown/)
+![](./assets/images/logo.png)
+
